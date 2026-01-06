@@ -1,9 +1,13 @@
 # Sentiment-and-Emotion-Text-Classification-Using-DeBERTa-v3
 
 https://github.com/user-attachments/assets/7456d032-02a0-4384-b708-401726619046
-This repository contains an end-to-end implementation of fine-tuning a DeBERTa-v3 model for multi-class text classification using the Hugging Face Transformers ecosystem.
+-This repository contains an end-to-end implementation of fine-tuning a DeBERTa-v3 model for multi-class text classification using the Hugging Face Transformers ecosystem.
 The project is designed with research best practices, reproducibility, and scalability in mind.
 ## 📌 Key Features
+
+
+https://github.com/user-attachments/assets/8b3f1970-a1df-4dd7-8ed2-27428db7db1f
+
 
 - ✅ Uses **DeBERTa-v3** 
 - ✅ Supports **multi-class classification**
