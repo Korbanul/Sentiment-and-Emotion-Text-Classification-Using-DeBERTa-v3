@@ -1,0 +1,3 @@
+To use the model: emotion_model_final
+Upload this model file in your drive to run in colab.
+https://drive.google.com/drive/folders/145wmxkG5AUr4GDcpiPCkDuX7AF5GZFEs?usp=sharing
